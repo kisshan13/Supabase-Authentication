@@ -1,10 +1,10 @@
 This is a next js application to authenticate Supabase Users.
 
-> Features
-> i. User Signup.
-> ii. Email Confirmation.
-> iii. Protected Routing.
-> iv. Stateful UI.
+> Features <br>
+> i. User Signup. <br>
+> ii. Email Confirmation. <br>
+> iii. Protected Routing. <br>
+> iv. Stateful UI. <br>
 
 # Explanation
 
